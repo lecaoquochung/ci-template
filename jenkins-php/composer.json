@@ -1,0 +1,21 @@
+{
+    "name": "hungle/jenkins-php",
+    "description": "Jenkins template for php projects",
+    "type": "library",
+    "require": {
+        "squizlabs/php_codesniffer": "^2.8",
+        "phpunit/phpunit": "^6.1",
+        "sebastian/phpcpd": "^3.0",
+        "theseer/phpdox": "^0.9.0",
+        "pdepend/pdepend": "^2.5",
+        "phploc/phploc": "^3.0",
+        "phpmd/phpmd": "^2.6"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "hungle",
+            "email": "lecaoquochung@gmail.com"
+        }
+    ]
+}
